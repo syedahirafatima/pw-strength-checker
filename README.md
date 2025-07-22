@@ -4,7 +4,7 @@
 This is a simple Python script that checks the strength of a user's password based on key rules such as length, use of digits, uppercase/lowercase letters, and special characters.
 
 
-# 🚀 Features:
+#🚀 Features:
 
 1. Checks if password is at least 8 characters long  
 2. Detects presence of:
